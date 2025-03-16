@@ -1,0 +1,10 @@
+#!/bin/bash
+export TF_VAR_confluent_cloud_api_key=""
+export TF_VAR_confluent_cloud_api_secret=""
+export TF_VAR_sales_user=""
+export TF_VAR_sales_token=""
+export TF_VAR_sales_password=""
+export TF_VAR_sales_secret=""
+export TF_VAR_sales_key=""
+export TF_VAR_post_password=""
+export TF_VAR_gcs_credentials=""
